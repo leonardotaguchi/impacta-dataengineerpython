@@ -1,0 +1,10 @@
+requests
+pandas
+pyarrow
+fastparquet
+python-dotenv
+structlog
+sqlalchemy
+psycopg2-binary
+openai
+pytest
